@@ -1,0 +1,13 @@
+#can{
+  width:500px;
+  border: 2px solid Indigo;
+  margin-left:400px;
+}
+body{
+  background-color: LightSalmon;
+}
+h1{
+  color: red;
+  font-size: 20pt;
+  text-align:center;
+}
